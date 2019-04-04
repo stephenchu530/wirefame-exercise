@@ -14,6 +14,7 @@ nav section {
   margin: 0;
   padding: 0;
   width: 960px;
+  text-align: left;
 }
 nav section img, nav section p {
   display: inline-block;
@@ -21,8 +22,13 @@ nav section img, nav section p {
   padding: 0;
   color: #7f7f7f;
   overflow: hidden;
-  width: 188px;
   height: 70px;
+}
+nav section img {
+  width: 200px;
+}
+nav section p {
+  width: 150px;
 }
 nav section p {
   text-align: center;
