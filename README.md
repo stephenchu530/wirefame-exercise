@@ -10,7 +10,7 @@ From the terminal, run one of the following to make a local copy:
 
 ## Usage:
 * Change directory into the project directory and load `index.html` in your favorite browser.
-* Or go to (using https://pages.github.com): [TITLE](https://stephenchu530.github.io/wireframe-exercise)
+* Or go to (using https://pages.github.com): [Wireframe Exercise](https://stephenchu530.github.io/wireframe-exercise)
 
 ## Credits:
 * Stephen Chu, [stephenchu530](https://github.com/stephenchu530)
