@@ -16,4 +16,4 @@ From the terminal, run one of the following to make a local copy:
 * Stephen Chu, [stephenchu530](https://github.com/stephenchu530)
 
 ## License:
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/stephenchu530/wireframe-exercise/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/stephenchu530/wirefame-exercise/blob/master/LICENSE)
